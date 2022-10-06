@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--helix-test-content-sharepoint--adobe.hlx.page/
+- Live: https://main--helix-test-content-sharepoint--adobe.hlx.live/
 
 ## Installation
 
